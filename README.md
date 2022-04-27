@@ -14,7 +14,7 @@
     <a href="https://github.com/KinashServer/KinashServer/releases/">* Download KinashServer</a>
 </div>
 <h3>People that commited to KinashServer repo</h3>
-<img src="https://avatars.githubusercontent.com/u/75567134?s=32&v=4">
+<img id="avatar" src="https://avatars.githubusercontent.com/u/75567134?s=32&v=4">
 <script type="text/javascript">
     brrer(15);
 </script>
