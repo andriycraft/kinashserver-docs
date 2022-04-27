@@ -19,6 +19,7 @@
 <img id="avatar" class="nav" src="https://avatars.githubusercontent.com/u/98953727?s=32&v=4">
 <h3>KinashScript docs</h3>
 <h4>KinashServer.getURL()</h4>
+
 <script type="text/javascript">
     brrer(15);
 </script>
