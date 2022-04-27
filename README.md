@@ -54,7 +54,7 @@
     <h4>Encoding.setUTF(true)</h4>
     <p class="nav">Description: Sets encoding as utf-8</p>
     <p class="nav">Notes: Support removed</p>
-    <p class="nav">Depracted: false</p>
+    <p class="nav">Depracted: true, support removed (reason: useless, use meta tag)</p>
 </div>
 
 <script type="text/javascript">
