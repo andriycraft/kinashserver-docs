@@ -13,6 +13,7 @@
     <a href="https://github.com/KinashServer/KinashServer/releases/">* Latest KinashServer updates</a>
     <a href="https://github.com/KinashServer/KinashServer/releases/">* Download KinashServer</a>
 </div>
+<h3>People that commited to KinashServer repo</h3>
 <script type="text/javascript">
     brrer(15);
 </script>
