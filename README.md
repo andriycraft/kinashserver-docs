@@ -55,6 +55,10 @@
     <p class="nav">Description: Sets encoding as utf-8</p>
     <p class="nav">Notes: Support removed</p>
     <p class="nav">Depracted: true, support removed (reason: useless, use meta tag)</p>
+    <h4>KinashServer.reload()</h4>
+    <p class="nav">Description: Reloads page</p>
+    <p class="nav">Notes: Support removed</p>
+    <p class="nav">Depracted: true, support removed (reason: useless, use meta tag)</p>
 </div>
 
 <script type="text/javascript">
