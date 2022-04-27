@@ -12,7 +12,7 @@
     <a href="./download/warning1.html">* Download optimized config</a> <br>
     <a href="https://github.com/KinashServer/KinashServer/releases/">* Latest KinashServer updates</a> <br>
     <a href="https://github.com/KinashServer/KinashServer/releases/">* Download KinashServer</a> <br>
-    <a href="https://github.com/KinashServer/KinashServer/releases/">* KinashScript</a> <br>
+    <a href="#kinashscriptdocs">* KinashScript docs</a> <br>
 </div>
 <h3>People that commited to KinashServer repo</h3>
 <img id="avatar" class="nav" src="https://avatars.githubusercontent.com/u/75567134?s=32&v=4">
