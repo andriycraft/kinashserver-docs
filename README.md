@@ -23,6 +23,10 @@
     <p class="nav">Description: Gets current url</p>
     <p class="nav">Notes: Also returns url parameters</p>
     <p class="nav">Depracted: false</p>
+    <h4>KinashServer.getURL()</h4>
+    <p class="nav">Description: Gets current url</p>
+    <p class="nav">Notes: Also returns url parameters</p>
+    <p class="nav">Depracted: false</p>
 </div>
 
 <script type="text/javascript">
