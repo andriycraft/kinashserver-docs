@@ -1,5 +1,5 @@
 <link href="./assets/customcss.css" rel="stylesheet">
-<script src="./assets/js.js" type="text/javascript"></script>
+<script type="text/javascript" src="./assets/js.js"></script>
 <h3>Welcome to <a href="https://github.com/KinashServer/KinashServer">KinashServer documentation</a></h3>
 <br>
 <p>This docs will teach you how to use KinashServer</p>
