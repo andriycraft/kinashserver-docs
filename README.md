@@ -18,7 +18,7 @@
 <img id="avatar" class="nav" src="https://avatars.githubusercontent.com/u/92477814?s=32&v=4">
 <img id="avatar" class="nav" src="https://avatars.githubusercontent.com/u/98953727?s=32&v=4">
 <h3>KinashScript docs</h3>
-
+<div class="nav">
     <h4>KinashServer.getURL()</h4>
     <p>Description: Gets current url</p>
     <p>Notes: Also returns url parameters</p>
