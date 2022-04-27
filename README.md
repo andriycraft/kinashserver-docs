@@ -43,7 +43,7 @@
     <p class="nav">Description: Gets version</p>
     <p class="nav">Notes: </p>
     <p class="nav">Depracted: false</p>
-    <h4>KinashServer.returnError(<p style="color:#1288A7">[supported error code]</p>)</h4>
+    <h4 style="display: inline-block">KinashServer.returnError(<p style="color:#1288A7">[supported error code]</p>)</h4>
     <p class="nav">Description: Returns error</p>
     <p class="nav">Notes: Supports only error codes that listed in config</p>
     <p class="nav">Depracted: false</p>
