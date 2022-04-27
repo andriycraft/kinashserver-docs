@@ -3,6 +3,7 @@
 <br>
 <p>This docs will teach you how to use KinashServer</p>
 <p>Remember: This is not official docs of KinashServer (official documentation also exists, but its very outdated)</p>
+<br>
 <p>Also remember: <a href="https://github.com/KinashServer/KinashServer">KinashServer also has it own repository on Github</a></p>
 <br>
 <script type="text/javascript">
