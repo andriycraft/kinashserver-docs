@@ -15,6 +15,8 @@
 </div>
 <h3>People that commited to KinashServer repo</h3>
 <img id="avatar" src="https://avatars.githubusercontent.com/u/75567134?s=32&v=4">
+<img id="avatar" src="https://avatars.githubusercontent.com/u/92477814?s=32&v=4">
+<img id="avatar" src="https://avatars.githubusercontent.com/u/98953727?s=32&v=4">
 <script type="text/javascript">
     brrer(15);
 </script>
