@@ -5,6 +5,7 @@ xhr.open("POST", 'https://andriycraft.github.io/kinashserver-docs/assets/tmplfet
 
 xhr.onreadystatechange = function() {
     if(xhr.readyState == XMLHttpRequest.DONE && xhr.status == 200) {
+	document.write(
     }
 }
 xhr.send();
