@@ -9,7 +9,8 @@
 <h3>Website navigation: </h3>
 <div class="nav">
     <a href="./download/warning.html">* Download default config</a>
+    <a href="./download/warning1.html">* Download default config</a>
 </div>
 <script type="text/javascript">
-    brrer(20);
+    brrer(15);
 </script>
