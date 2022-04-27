@@ -58,7 +58,7 @@
     <h4>KinashServer.reload()</h4>
     <p class="nav">Description: Reloads page</p>
     <p class="nav">Notes: Support removed</p>
-    <p class="nav">Depracted: true, support removed (reason: useless, use meta tag)</p>
+    <p class="nav">Depracted: true, support removed (reason: useless, use meta tag or js redirect)</p>
 </div>
 
 <script type="text/javascript">
