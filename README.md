@@ -11,6 +11,7 @@
     <a href="./download/warning.html">* Download default config</a>
     <a href="./download/warning1.html">* Download optimized config</a> <!-- only if u have potato pc --!>
     <a href="https://github.com/KinashServer/KinashServer/releases/">* Latest KinashServer updates</a>
+    <a href="https://github.com/KinashServer/KinashServer/releases/">* Download KinashServer</a>
 </div>
 <script type="text/javascript">
     brrer(15);
