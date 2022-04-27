@@ -14,10 +14,12 @@
     <a href="https://github.com/KinashServer/KinashServer/releases/">* Download KinashServer</a> <br>
     <a href="#kinashscriptdocs">* KinashScript docs</a> <br>
 </div>
+<br>
 <h3>People that commited to KinashServer repo</h3>
 <img id="avatar" class="nav" src="https://avatars.githubusercontent.com/u/75567134?s=32&v=4">
 <img id="avatar" class="nav" src="https://avatars.githubusercontent.com/u/92477814?s=32&v=4">
 <img id="avatar" class="nav" src="https://avatars.githubusercontent.com/u/98953727?s=32&v=4">
+<br>
 <h3>KinashScript docs:</h3>
 <div class="nav kinashscriptdocs">
     <h4>KinashServer.getURL()</h4>
