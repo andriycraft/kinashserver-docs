@@ -31,6 +31,10 @@
     <p class="nav">Description: Gets user ip</p>
     <p class="nav">Notes: </p>
     <p class="nav">Depracted: false</p>
+    <h4>KinashServer.getDate()</h4>
+    <p class="nav">Description: Gets current date</p>
+    <p class="nav">Notes: </p>
+    <p class="nav">Depracted: false</p>
 </div>
 
 <script type="text/javascript">
