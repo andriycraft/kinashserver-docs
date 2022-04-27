@@ -49,7 +49,7 @@
     <p class="nav">Depracted: false</p>
     <h4>KinashServer.blockIP()</h4>
     <p class="nav">Description: Blocks current user</p>
-    <p class="nav">Notes: Supports only error codes that listed in config</p>
+    <p class="nav">Notes: Blocks util server restart</p>
     <p class="nav">Depracted: false</p>
 </div>
 
