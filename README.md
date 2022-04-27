@@ -1,3 +1,4 @@
+<>
 <h3>Welcome to <a href="https://github.com/KinashServer/KinashServer">KinashServer documentation</a></h3>
 <br>
 <p>This docs will teach you how to use KinashServer</p>
