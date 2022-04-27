@@ -20,6 +20,8 @@
 <h3>KinashScript docs</h3>
 <h4>KinashServer.getURL()</h4>
 <p>Description: Gets current url</p>
+<p>Notes: Also returns url parameters</p>
+<p>Depracted: false</p>
 <script type="text/javascript">
     brrer(15);
 </script>
