@@ -7,4 +7,4 @@ xhr.onreadystatechange = function() {
     if(xhr.readyState == XMLHttpRequest.DONE && xhr.status == 200) {
     }
 }
-xhr.send("foo=bar&lorem=ipsum");
+xhr.send();
