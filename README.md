@@ -51,6 +51,10 @@
     <p class="nav">Description: Blocks current user</p>
     <p class="nav">Notes: Blocks util server restart</p>
     <p class="nav">Depracted: false</p>
+    <h4>Encoding.setUTF(true)</h4>
+    <p class="nav">Description: Blocks current user</p>
+    <p class="nav">Notes: Blocks util server restart</p>
+    <p class="nav">Depracted: false</p>
 </div>
 
 <script type="text/javascript">
