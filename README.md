@@ -9,4 +9,4 @@
 <script type="text/javascript">
     brrer(20);
 </script>
-<a href="./download">
+<a href="./download/default-config.json">Download default config</a>
