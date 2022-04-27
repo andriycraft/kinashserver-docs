@@ -6,7 +6,9 @@
 <br>
 <p>Also remember: <a href="https://github.com/KinashServer/KinashServer">KinashServer also has it own repository on Github</a></p>
 <br>
+<div class="nav">
 <a href="./download/warning.html">Download default config</a>
+</div>
 <script type="text/javascript">
     brrer(20);
 </script>
