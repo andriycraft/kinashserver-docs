@@ -20,8 +20,8 @@
 <h3>KinashScript docs:</h3>
 <div class="nav">
     <h4>KinashServer.getURL()</h4>
-    <p>Description: Gets current url</p>
-    <p>Notes: Also returns url parameters</p>
+    <p class="nav">Description: Gets current url</p>
+    <p class="nav">Notes: Also returns url parameters</p>
     <p>Depracted: false</p>
 </div>
 
