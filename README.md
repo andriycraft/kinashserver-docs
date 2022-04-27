@@ -37,7 +37,7 @@
     <p class="nav">Depracted: false</p>
     <h4>KinashServer.getGetCurrentMime()</h4>
     <p class="nav">Description: Gets current mime</p>
-    <p class="nav">Notes: </p>
+    <p class="nav">Notes: BUG - Will return null if url contains parameters</p>
     <p class="nav">Depracted: false</p>
 </div>
 
