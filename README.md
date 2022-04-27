@@ -4,10 +4,9 @@
 <br>
 <p>This docs will teach you how to use KinashServer</p>
 <p>Remember: This is not official docs of KinashServer (official documentation also exists, but its very outdated)</p>
-<br>
 <p>Also remember: <a href="https://github.com/KinashServer/KinashServer">KinashServer also has it own repository on Github</a></p>
 <br>
-<h3>Website navigation</h3>
+<h3>Website navigation: </h3>
 <div class="nav">
     <a href="./download/warning.html">* Download default config</a>
 </div>
